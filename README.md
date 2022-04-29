@@ -53,4 +53,8 @@ document.write(today);
 
 [구글](http://www.google.com, "검색 사이트")
 
+![fantasy](./images/fantasy.jpg)
 
+![book](https://cdn.pixabay.com/photo/2022/01/22/16/54/book-6957870_960_720.jpg)
+
+![tomato](https://user-images.githubusercontent.com/104494355/165919223-7b0e96c2-003e-4f90-98b3-e715a487cd6d.jpg)
